@@ -12,6 +12,11 @@
 - SQLite Implementation & Sample Data (schema, populate scripts, integrity checks).
 
 # Screenshots
+### Refined Concept Model
+![rcm](https://github.com/phpc99/bd-project/blob/main/refinedConceptModel.png)
+
+### Relational Schema
+![rs](https://github.com/phpc99/bd-project/blob/main/relationalSchema.png)
 
 # Authors 
 - Cláudia Sofia Teixeira Mesquita
