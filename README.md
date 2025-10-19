@@ -1,8 +1,4 @@
-# Project description
-
-This project is a comprehensive database system designed to manage a music-streaming platform. It handles user subscriptions, payments, artists, songs, playlists, listening history and social connections—all with normalized relational schema and robust data integrity logic.
-
-## Features
+# Features
 
 - User Management (free vs premium accounts, user profiles);
 - Payment System (card and PayPal methods);
