@@ -11,9 +11,7 @@
 - Normalization & Integrity (database schema in BCNF/3NF with constraints);
 - SQLite Implementation & Sample Data (schema, populate scripts, integrity checks).
 
-# How to run the project
-
-[missing]
+# Screenshots
 
 # Authors 
 - Cláudia Sofia Teixeira Mesquita
