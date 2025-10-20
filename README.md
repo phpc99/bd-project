@@ -11,6 +11,10 @@
 - Normalization & Integrity (database schema in BCNF/3NF with constraints);
 - SQLite Implementation & Sample Data (schema, populate scripts, integrity checks).
 
+# Report
+
+https://github.com/phpc99/bd-project/blob/main/FinalReport.pdf
+
 # Screenshots
 ### Refined Concept Model
 ![rcm](https://github.com/phpc99/bd-project/blob/main/refinedConceptModel.png)
